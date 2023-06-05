@@ -1,0 +1,20 @@
+@import "~@wpmudev/shared-ui/scss/functions";
+@import "~@wpmudev/shared-ui/scss/colors";
+@import "~@wpmudev/shared-ui/scss/variables";
+@import "~@wpmudev/shared-ui/scss/mixins";
+
+@include body-class(true) {
+	.wphb-safemode-toggle {
+		.sui-form-field {
+			margin: 0 10px 0 10px;
+		}
+	}
+
+	.sui-box-sticky {
+		.sui-actions-right {
+			.sui-tooltip-constrained:after {
+				min-width: var(--tooltip-width, 310px);
+			}
+		}
+	}
+}

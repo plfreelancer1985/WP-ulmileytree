@@ -1,0 +1,1 @@
+2Õxd<?php exit; ?>a:1:{s:7:"content";s:38:"a:1:{i:0;s:20:"category_description";}";}

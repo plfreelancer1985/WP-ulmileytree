@@ -1,0 +1,39 @@
+.switch-button-label { float: left; font-size: 11pt; cursor: pointer; line-height: 24px; }
+.switch-button-label.off { color: #adadad; }
+.switch-button-label.on { color: #0088CC; }
+
+.switch-button-background {
+    float: left;
+    position: relative;
+    background: #ccc;
+    border: 1px solid #aaa;
+    margin: 1px 10px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.switch-button-button {
+    position: absolute;
+    left: -1px;
+    top : -1px;
+    background: #FAFAFA;
+    border: 1px solid #aaa;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.gst_switch_label, .gs_select_desc { 
+    margin-left: 20px;
+    cursor: auto;
+    font-size: 13px;
+    font-style: italic;
+    vertical-align: sub;
+}
+.gswps-admin-sidebar .postbox .inside>p:last-child {
+    margin-bottom: 1px!important;
+}
+.centered a.button.button-primary, .gswps-admin-sidebar input#mc-embedded-subscribe {
+    min-width: 100px !important;
+}

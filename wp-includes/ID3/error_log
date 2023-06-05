@@ -1,0 +1,59 @@
+[20-Feb-2020 13:16:36 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[26-Feb-2020 01:31:46 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[02-Apr-2020 03:52:22 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[03-Apr-2020 08:01:56 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[13-Apr-2020 08:54:37 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[13-Jun-2020 22:42:36 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[13-Jun-2020 22:43:47 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[28-Jun-2020 09:06:36 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[30-Jun-2020 05:30:25 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[30-Jun-2020 05:31:35 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[29-Jul-2020 17:52:45 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[21-Sep-2020 00:43:47 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[10-Dec-2020 10:15:53 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[22-Dec-2020 04:41:19 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[08-Mar-2021 09:43:13 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[10-Apr-2021 12:14:49 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[23-Nov-2021 16:39:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php on line 380
+[23-Nov-2021 16:39:32 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[24-Nov-2021 08:38:57 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php on line 380
+[24-Nov-2021 08:38:57 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/ID3/module.audio.ac3.php on line 18

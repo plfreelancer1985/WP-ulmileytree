@@ -1,0 +1,108 @@
+[29-Dec-2016 12:09:22 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/almileyt/public_html/wp-includes/registration-functions.php on line 7
+[06-Jan-2017 23:50:10 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/almileyt/public_html/wp-includes/registration-functions.php on line 7
+[20-Nov-2018 00:16:57 UTC] PHP Fatal error:  Call to undefined function is_robots() in /home/almileyt/public_html/wp-includes/template-loader.php on line 28
+[20-Nov-2018 04:56:34 UTC] PHP Fatal error:  Call to undefined function is_robots() in /home/almileyt/public_html/wp-includes/template-loader.php on line 28
+[22-Jan-2019 23:45:04 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/almileyt/public_html/wp-includes/rss-functions.php on line 8
+[11-Apr-2019 21:39:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/almileyt/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/rss-functions.php on line 8
+[01-Apr-2020 09:39:19 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[01-Apr-2020 09:39:19 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[01-Apr-2020 09:39:19 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[01-Apr-2020 09:39:19 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[01-Apr-2020 09:39:19 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[17-Jun-2020 20:03:08 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[17-Jun-2020 20:03:08 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[17-Jun-2020 20:03:08 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[17-Jun-2020 20:03:08 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[25-Jun-2020 21:39:46 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[25-Jun-2020 21:39:46 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[25-Jun-2020 21:39:46 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[25-Jun-2020 21:39:46 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[02-Jul-2020 10:11:58 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[02-Jul-2020 10:11:58 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[02-Jul-2020 10:11:58 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[02-Jul-2020 10:11:58 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[12-Jul-2020 05:21:41 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[12-Jul-2020 05:21:41 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[12-Jul-2020 05:21:41 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[12-Jul-2020 05:21:41 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[15-Jul-2020 05:06:33 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[15-Jul-2020 05:06:33 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[15-Jul-2020 05:06:33 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[15-Jul-2020 05:06:33 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[20-Jul-2020 11:37:46 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[20-Jul-2020 11:37:46 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[20-Jul-2020 11:37:46 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[20-Jul-2020 11:37:46 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[28-Jul-2020 12:55:28 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[28-Jul-2020 12:55:29 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[28-Jul-2020 12:55:29 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[28-Jul-2020 12:55:29 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[28-Jul-2020 12:55:33 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[28-Jul-2020 12:55:33 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[28-Jul-2020 12:55:33 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[28-Jul-2020 12:55:33 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[28-Jul-2020 12:55:36 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[28-Jul-2020 12:55:36 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[28-Jul-2020 12:55:36 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[28-Jul-2020 12:55:36 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[30-Jul-2020 01:30:30 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[30-Jul-2020 01:30:30 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[30-Jul-2020 01:30:30 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[30-Jul-2020 01:30:30 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[01-Aug-2020 05:10:02 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[01-Aug-2020 05:10:02 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[01-Aug-2020 05:10:02 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[01-Aug-2020 05:10:02 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[09-Aug-2020 14:26:53 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[09-Aug-2020 14:26:53 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[09-Aug-2020 14:26:53 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[09-Aug-2020 14:26:53 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[21-Aug-2020 20:58:41 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[21-Aug-2020 20:58:41 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[21-Aug-2020 20:58:41 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[21-Aug-2020 20:58:41 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[27-Aug-2020 14:57:09 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[27-Aug-2020 14:57:09 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[27-Aug-2020 14:57:09 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[27-Aug-2020 14:57:09 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[02-Sep-2020 00:45:25 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[02-Sep-2020 00:45:25 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[02-Sep-2020 00:45:25 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[02-Sep-2020 00:45:25 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[11-Sep-2020 21:45:27 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[11-Sep-2020 21:45:27 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[11-Sep-2020 21:45:27 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[11-Sep-2020 21:45:27 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[21-Sep-2020 16:57:49 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[21-Sep-2020 16:57:49 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[21-Sep-2020 16:57:49 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[21-Sep-2020 16:57:49 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[19-Oct-2020 01:24:09 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[19-Oct-2020 01:24:09 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[19-Oct-2020 01:24:09 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[19-Oct-2020 01:24:09 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[06-Dec-2020 09:58:12 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[06-Dec-2020 09:58:12 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[06-Dec-2020 09:58:12 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[06-Dec-2020 09:58:12 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[06-Dec-2020 09:58:12 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[29-Apr-2021 19:31:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/almileyt/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/rss-functions.php on line 8
+[16-May-2021 14:06:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/almileyt/public_html/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/rss.php on line 19
+[16-May-2021 14:07:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/almileyt/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/rss-functions.php on line 8
+[09-Oct-2021 11:18:39 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[09-Oct-2021 11:18:39 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[09-Oct-2021 11:18:39 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[09-Oct-2021 11:18:39 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/almileyt/public_html/wp-includes/functions.php on line 8
+[09-Oct-2021 11:18:39 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/almileyt/public_html/wp-includes/functions.php on line 8

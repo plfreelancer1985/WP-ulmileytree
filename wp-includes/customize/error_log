@@ -1,0 +1,216 @@
+[07-Jan-2023 04:36:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[07-Jan-2023 04:36:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[07-Jan-2023 04:36:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[07-Jan-2023 04:37:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[07-Jan-2023 04:37:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[07-Jan-2023 04:37:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[07-Jan-2023 04:37:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[07-Jan-2023 04:37:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[07-Jan-2023 04:37:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[07-Jan-2023 04:38:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[07-Jan-2023 04:38:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[07-Jan-2023 04:38:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[07-Jan-2023 04:38:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[07-Jan-2023 04:38:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[07-Jan-2023 04:38:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Upload_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[07-Jan-2023 04:39:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Upload_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[07-Jan-2023 04:39:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[07-Jan-2023 04:39:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[07-Jan-2023 04:39:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[07-Jan-2023 04:39:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[07-Jan-2023 04:40:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 15
+[07-Jan-2023 04:40:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 15
+[07-Jan-2023 04:40:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 15
+[07-Jan-2023 04:40:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 15
+[07-Jan-2023 04:40:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[07-Jan-2023 04:40:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[07-Jan-2023 04:41:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[07-Jan-2023 04:41:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[07-Jan-2023 04:41:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[07-Jan-2023 04:41:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[07-Jan-2023 04:41:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[07-Jan-2023 04:41:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[07-Jan-2023 04:42:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[07-Jan-2023 04:42:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[07-Jan-2023 04:42:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[07-Jan-2023 04:42:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[07-Jan-2023 04:42:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php on line 17
+[07-Jan-2023 04:42:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php on line 17
+[07-Jan-2023 04:43:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php on line 19
+[07-Jan-2023 04:43:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php on line 19
+[07-Jan-2023 04:43:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[07-Jan-2023 04:43:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[07-Jan-2023 04:43:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Cropped_Image_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[07-Jan-2023 04:43:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Cropped_Image_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[07-Jan-2023 04:44:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[07-Jan-2023 04:44:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[07-Jan-2023 04:44:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[07-Jan-2023 04:44:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[07-Jan-2023 04:44:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Media_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[07-Jan-2023 04:45:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Media_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[07-Jan-2023 04:45:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[07-Jan-2023 04:45:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[07-Jan-2023 04:45:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[07-Jan-2023 04:45:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/almileyt/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17

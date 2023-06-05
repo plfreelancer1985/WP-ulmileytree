@@ -1,0 +1,2 @@
+[07-Jan-2023 04:47:25 UTC] PHP Fatal error:  Cannot redeclare random_bytes() in /home/almileyt/public_html/wp-includes/random_compat/random_bytes_openssl.php on line 42
+[07-Jan-2023 04:47:34 UTC] PHP Fatal error:  Cannot redeclare random_bytes() in /home/almileyt/public_html/wp-includes/random_compat/random_bytes_openssl.php on line 42

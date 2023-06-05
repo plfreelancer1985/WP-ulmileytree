@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Page list widget 1.4.0\n"
+"POT-Creation-Date: 2020-07-15 14:55+0900\n"
+"PO-Revision-Date: 2020-07-15 15:16+0900\n"
+"Last-Translator: nigauri <i18n@nigauri.me>\n"
+"Language-Team: nigauri <i18n@nigauri.me>\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../page-list-widget.php:32
+msgid "This widget will display a list of posts/pages."
+msgstr "投稿記事や固定ページの一覧を表示するウィジェットです。"
+
+#: ../page-list-widget.php:35
+msgid "Post/Page list"
+msgstr "投稿/固定ページリスト"
+
+#: ../page-list-widget.php:105
+msgid "Title:"
+msgstr "タイトル:"
+
+#: ../page-list-widget.php:111
+msgid "Type:"
+msgstr "表示タイプ:"
+
+#: ../page-list-widget.php:115
+msgid "Posts"
+msgstr "投稿"
+
+#: ../page-list-widget.php:120
+msgid "Pages"
+msgstr "固定ページ"
+
+#: ../page-list-widget.php:132
+msgid "Number:"
+msgstr "表示数:"
+
+#: ../page-list-widget.php:140
+msgid "Display created date"
+msgstr "作成日を表示する"
+
+#: ../page-list-widget.php:146 ../page-list-widget.php:166
+msgid "Prefix:"
+msgstr "接頭辞:"
+
+#: ../page-list-widget.php:151 ../page-list-widget.php:171
+msgid "Suffix:"
+msgstr "接尾辞:"
+
+#: ../page-list-widget.php:160
+msgid "Display modified date"
+msgstr "更新日を表示する"
+
+#: ../page-list-widget.php:178
+msgid "Order by:"
+msgstr "ソート順:"
+
+#: ../page-list-widget.php:181
+msgid "Title"
+msgstr "タイトル"
+
+#: ../page-list-widget.php:182
+msgid "Menu order"
+msgstr "メニュー順"
+
+#: ../page-list-widget.php:183
+msgid "Post date"
+msgstr "投稿日"
+
+#: ../page-list-widget.php:184
+msgid "Modified date"
+msgstr "更新日"
+
+#: ../page-list-widget.php:185
+msgid "ID"
+msgstr "ID"
+
+#: ../page-list-widget.php:186
+msgid "Author"
+msgstr "作成者"
+
+#: ../page-list-widget.php:187
+msgid "Post name"
+msgstr "投稿名"
+
+#: ../page-list-widget.php:190
+msgid "Asc"
+msgstr "昇順"
+
+#: ../page-list-widget.php:191
+msgid "Desc"
+msgstr "降順"
+
+#: ../page-list-widget.php:197
+msgid "Include:"
+msgstr "含める記事/ページ:"
+
+#: ../page-list-widget.php:200 ../page-list-widget.php:208
+msgid "Page/Post IDs, separated by commas."
+msgstr "記事ID/ページIDをカンマ区切りで入力。"
+
+#: ../page-list-widget.php:205
+msgid "Exclude:"
+msgstr "除外する記事/ページ:"
+
+#: ../page-list-widget.php:212
+msgid "Set link to title:"
+msgstr "タイトルにリンクを設定する:"
+
+#: ../page-list-widget.php:216
+msgid "Yes"
+msgstr "はい"
+
+#: ../page-list-widget.php:221
+msgid "No"
+msgstr "いいえ"
+
+#: ../page-list-widget.php:257
+msgid "Article list"
+msgstr "記事の一覧"
+
+#. Plugin Name of the plugin/theme
+msgid "Page List Widget"
+msgstr "Page List Widget"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.nigauri.me/tech/wordpress/plugin_page_list_widget"
+msgstr "https://www.nigauri.me/tech/wordpress/plugin_page_list_widget"
+
+#. Description of the plugin/theme
+msgid "This is a widget plugin. This widget will display a list of posts/pages."
+msgstr "投稿/固定ページの一覧を表示するウィジェットを追加します。"
+
+#. Author of the plugin/theme
+msgid "nigauri"
+msgstr "nigauri"
+
+#. Author URI of the plugin/theme
+msgid "https://www.nigauri.me/"
+msgstr "https://www.nigauri.me/"
+
+#~ msgid "Post list"
+#~ msgstr "投稿一覧"
+
+#~ msgid "Page list"
+#~ msgstr "固定ページ一覧"

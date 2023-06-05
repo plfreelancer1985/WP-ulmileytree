@@ -1,0 +1,24 @@
+[26-Jun-2021 11:42:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/almileyt/public_html/wp-includes/theme-compat/comments-popup.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/theme-compat/comments-popup.php on line 10
+[26-Jun-2021 20:58:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/almileyt/public_html/wp-includes/theme-compat/comments-popup.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/theme-compat/comments-popup.php on line 10
+[15-Oct-2021 19:33:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/almileyt/public_html/wp-includes/theme-compat/comments-popup.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/theme-compat/comments-popup.php on line 10
+[16-Oct-2021 20:24:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/almileyt/public_html/wp-includes/theme-compat/comments-popup.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/theme-compat/comments-popup.php on line 10
+[07-Jan-2023 04:48:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/almileyt/public_html/wp-includes/theme-compat/comments-popup.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/theme-compat/comments-popup.php on line 10
+[07-Jan-2023 04:48:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/almileyt/public_html/wp-includes/theme-compat/comments-popup.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/almileyt/public_html/wp-includes/theme-compat/comments-popup.php on line 10
