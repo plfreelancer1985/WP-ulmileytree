@@ -60,9 +60,9 @@ if ( ! function_exists( 'x_body_class' ) ) :
 
     if ( $stack == 'integrity' ) {
       if ( $integrity_design_dark ) {
-        $output[] .= 'x-integrity-dark';
+        // $output[] .= 'x-integrity-dark';
       } else {
-        $output[] .= 'x-integrity-light';
+        // $output[] .= 'x-integrity-light';
       }
     }
 
